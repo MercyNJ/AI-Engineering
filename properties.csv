@@ -1,0 +1,51 @@
+property_id,user_location,property_location,property_type,bedrooms,bathrooms,price_kes,furnished,suitable
+1,Kilimani,Kilimani,Apartment,2,2,75000,Yes,Yes
+2,Kasarani,Ruiru,Apartment,2,1,55000,No,Yes
+3,Westlands,Westlands,Apartment,3,2,140000,Yes,No
+4,Embakasi,Embakasi,Apartment,2,1,50000,No,Yes
+5,Ruaka,Westlands,Apartment,3,2,125000,Yes,Yes
+6,Kileleshwa,Kilimani,Apartment,2,2,85000,No,Yes
+7,Langata,Westlands,Apartment,3,2,130000,No,No
+8,Ruiru,Kasarani,Apartment,2,1,48000,No,Yes
+9,Kiambu,Ruaka,Apartment,2,2,65000,Yes,Yes
+10,South B,Embakasi,Apartment,3,2,70000,No,Yes
+11,Kilimani,Kileleshwa,Apartment,3,2,110000,Yes,Yes
+12,Kasarani,Westlands,Apartment,2,1,90000,No,No
+13,Embakasi,South B,Apartment,2,1,60000,No,Yes
+14,Westlands,Ruaka,Maisonette,4,3,180000,Yes,No
+15,Ruaka,Ruaka,Apartment,2,2,70000,No,Yes
+16,Langata,Kilimani,Apartment,2,2,80000,Yes,Yes
+17,Ruiru,Ruiru,Apartment,3,2,65000,No,Yes
+18,Kiambu,Westlands,Apartment,3,2,150000,Yes,No
+19,Kileleshwa,Kileleshwa,Apartment,2,2,90000,No,Yes
+20,South B,South B,Apartment,3,2,85000,Yes,Yes
+21,Kilimani,Westlands,Apartment,2,1,120000,No,No
+22,Kasarani,Kasarani,Apartment,3,2,70000,No,Yes
+23,Embakasi,Kilimani,Apartment,2,2,95000,Yes,No
+24,Westlands,Kileleshwa,Apartment,3,2,130000,No,No
+25,Ruaka,Kiambu,Apartment,2,1,55000,No,Yes
+26,Langata,Langata,Apartment,3,2,90000,No,Yes
+27,Ruiru,Kiambu,Maisonette,4,3,120000,No,Yes
+28,Kiambu,Ruiru,Apartment,2,1,50000,Yes,Yes
+29,Kileleshwa,Westlands,Apartment,3,2,135000,Yes,No
+30,South B,Kilimani,Apartment,2,2,90000,No,Yes
+31,Kilimani,Langata,Apartment,2,1,75000,No,Yes
+32,Kasarani,Embakasi,Apartment,3,2,65000,Yes,Yes
+33,Embakasi,Westlands,Apartment,2,1,115000,Yes,No
+34,Westlands,Kasarani,Apartment,3,2,85000,No,Yes
+35,Ruaka,Kileleshwa,Apartment,2,2,95000,Yes,No
+36,Langata,South B,Apartment,2,1,65000,No,Yes
+37,Ruiru,Westlands,Apartment,3,2,140000,No,No
+38,Kiambu,Kiambu,Apartment,2,1,50000,No,Yes
+39,Kileleshwa,Langata,Apartment,3,2,95000,Yes,Yes
+40,South B,Kileleshwa,Apartment,2,2,100000,No,No
+41,Kilimani,Ruaka,Apartment,2,2,75000,Yes,Yes
+42,Kasarani,Kiambu,Apartment,3,2,70000,No,Yes
+43,Embakasi,Ruiru,Apartment,2,1,52000,No,Yes
+44,Westlands,Westlands,Apartment,2,2,125000,No,No
+45,Ruaka,Kilimani,Apartment,3,2,115000,Yes,Yes
+46,Langata,Embakasi,Apartment,2,1,55000,No,Yes
+47,Ruiru,Kileleshwa,Apartment,3,2,125000,Yes,No
+48,Kiambu,South B,Apartment,2,1,60000,No,Yes
+49,Kileleshwa,Ruaka,Apartment,2,2,80000,Yes,Yes
+50,South B,Westlands,Maisonette,4,3,200000,Yes,No
