@@ -54,8 +54,10 @@ scipy==1.17.1
 six==1.17.0
 soupsieve==2.9.2
 stack-data==0.6.3
+tensorflow==2.21.0
 threadpoolctl==3.7.0
 tinycss2==1.5.1
+torch==2.14.1
 tornado==6.5.10
 traitlets==5.16.1
 typing_extensions==4.16.0
