@@ -150,7 +150,6 @@ for index, prediction in enumerate(predictions):
 
 # 9. Save the trained model
 
-# models/ is in .gitignore, so the saved model is not committed.
 MODEL_PATH = Path("models/imdb_lstm_model.keras")
 MODEL_PATH.parent.mkdir(parents=True, exist_ok=True)
 lstm_model.save(MODEL_PATH)
