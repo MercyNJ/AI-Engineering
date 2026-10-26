@@ -141,7 +141,6 @@ print(f"Predicted next-month price: KES {predicted_price:,.0f}")
 
 # 8. Save the model
 
-# models/ is in .gitignore, so the saved model is not committed.
 MODEL_PATH = Path("models/property_price_gru.keras")
 MODEL_PATH.parent.mkdir(parents=True, exist_ok=True)
 model.save(MODEL_PATH)
