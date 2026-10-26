@@ -137,7 +137,6 @@ for index, probabilities in enumerate(predictions):
 
 # 11. Save the trained model
 
-# models/ is in .gitignore, so the saved model is not committed.
 MODEL_PATH = Path("models/cnn_image_classifier.keras")
 MODEL_PATH.parent.mkdir(parents=True, exist_ok=True)
 model.save(MODEL_PATH)
