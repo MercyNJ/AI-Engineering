@@ -79,7 +79,7 @@ for index in attention[it_index].argsort(descending=True)[:5]:
 
 # 4. Attention as a soft search: requests (queries) look at listings (keys).
 def self_attention(Q, K, V, scale=True):
-    """Scaled dot-product attention, as in the lesson."""
+    """Scaled dot-product attention."""
     d_k   = Q.shape[-1]
     scores = Q @ K.T
     if scale:

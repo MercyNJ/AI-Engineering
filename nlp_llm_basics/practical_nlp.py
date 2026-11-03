@@ -24,7 +24,7 @@ labels = ["finance", "sports", "technology", "politics", "health"]
 result = classifier(text, candidate_labels=labels)
 print("Label:", result['labels'][0])
 print("Score:", result['scores'][0])
-# For higher accuracy, fine-tune a classifier on your own labelled data (previous lesson).
+# For higher accuracy, fine-tune a classifier on your own labelled data (see fine_tuning.py).
 
 
 # 2. Sentiment analysis.
